@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"1l39pm0d4rsp2","package_name":"voting","contract_name":"VotingContract","module_path":"voting::VotingContract","artifacts":{"sierra":"voting_VotingContract.contract_class.json","casm":null}}]}
